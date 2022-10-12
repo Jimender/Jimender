@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimender
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning CSS and Vanilla JS
+- 👀 I’m interested in Competitive Programming and SDE
+- 🌱 I’m currently learning DSA with CPP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : jimenderk@gmail.com
 
